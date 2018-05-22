@@ -1,2 +1,4 @@
 # ViewincludeDemo
 Activity 中，页面复杂需拆分分模块化来完成 就使用Fragment 以及 Include的自定义FrameLayout
+
+项目中有时候会遇到很复杂的页面，比如在同个Activity或者Fragment中要实现两个界面，本文介绍一种比较简单的拆分方法。
